@@ -1,3 +1,11 @@
+# blackroad-react-components
+
+> 🎨 BlackRoad Design System - React component library with Golden Ratio design
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc)
+
+---
+
 # BlackRoad React Component Library
 
 **Official React component library implementing the BlackRoad Design System**
